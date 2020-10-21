@@ -1,10 +1,8 @@
-# Jawad Khan
-
+                                                                        # Jawad Khan
+### About Me
 I am a dedicated and enthusiastic Business Computing graduate with a variety of work experience in customer service, data handling and IT. I am aspiring to be a successful IT professional.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
