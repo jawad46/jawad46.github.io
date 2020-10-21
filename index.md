@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Jawad Khan
 
-You can use the [editor on GitHub](https://github.com/jawad46/jawad46.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a dedicated and enthusiastic Business Computing graduate with a variety of work experience in customer service, data handling and IT. I am aspiring to be a successful IT professional.
 
 ### Markdown
 
